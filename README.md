@@ -9,4 +9,4 @@ programming assignments of which many are included here.  Read more about the st
 A few highlights:
 
 - MAGIC8.PAS: Magic 8 ball game.  This was my first experience with BGI graphics in Turbo Pacal.
-- SPARKLE.PAS: A simple screensaver that I wrote for my boss's computer as Sparkle Car Wash.
+- SPARKLE.PAS: A simple screensaver that I wrote for my boss's computer at Sparkle Car Wash.
